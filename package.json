@@ -1,9 +1,14 @@
 {
   "name": "balancerv2tags",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "dist/index.js",
   "license": "MIT",
+  "homepage": "https://github.com/gmkung/tagsqueries-balancerv2tags",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmkung/tagsqueries-balancerv2tags.git"
+  },
   "devDependencies": {
     "typescript": "^5.3.3"
   },
